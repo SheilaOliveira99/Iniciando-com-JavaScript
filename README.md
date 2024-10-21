@@ -4,7 +4,7 @@
 
 💡 *Nesse desafio há alguns conceitos básicos de JavaScript para praticar.*
 
-<h2> O resultado pode ser apresentado tanto no **console** quanto em um **alerta** no navegador. </h2>
+<h4> O resultado pode ser apresentado tanto no **console** quanto em um **alerta** no navegador. </h4>
 
 *1. Criar um script que exiba a mensagem "Hello World!" em um alerta no navegador.*
 
